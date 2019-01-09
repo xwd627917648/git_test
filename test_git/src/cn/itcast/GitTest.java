@@ -8,6 +8,7 @@ public class GitTest {
 
     public static void main(String[] args) {
 
+        //这个是克隆下来的
         System.out.println("Hello Git");
     }
 }
